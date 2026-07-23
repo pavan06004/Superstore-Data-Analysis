@@ -9,7 +9,6 @@ The project follows an end-to-end data analytics workflow using SQL, Python, and
 
 ## Tools Used
 - SQL (MySQL)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI
 - Excel
 
@@ -24,8 +23,6 @@ Superstore-Data-Analysis/
 ├── sql/
 │ └── SQL analysis queries
 
-├── python/
-│ └── data_loading.ipynb
 
 ├── powerbi/
 │ └── Superstore_Dashboard.pbix
@@ -52,13 +49,6 @@ Superstore-Data-Analysis/
 - Regional analysis
 - Shipping analysis
 
-### Python Analysis
-- Data loading
-- Data cleaning
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Statistical analysis
-- Data visualization
 
 ### Power BI Dashboard
 
@@ -104,5 +94,3 @@ Includes:
 
 ---
 
-## Author
-Pavan Kumar
