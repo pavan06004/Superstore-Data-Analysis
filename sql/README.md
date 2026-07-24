@@ -1,5 +1,4 @@
-# Superstore SQL Analysis Project
-
+# Superstore SQL Analysis 
 ## Project Overview
 This project focuses on analyzing the Superstore sales dataset using SQL to extract business insights related to sales, profit, customers, products, and regions.
 
